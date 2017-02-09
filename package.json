@@ -1,0 +1,24 @@
+{
+  "name": "etctesttemplate",
+  "version": "0.0.1",
+  "description": "Ethicall Test Template",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/HSUCHING/ETCTest_Template.git"
+  },
+  "keywords": [
+    "Ethicall",
+    "Test",
+    "Template"
+  ],
+  "author": "Hsuching",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/HSUCHING/ETCTest_Template/issues"
+  },
+  "homepage": "https://github.com/HSUCHING/ETCTest_Template#readme"
+}
