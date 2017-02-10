@@ -1,0 +1,25 @@
+{
+  "name": "ethicall_frontend_test",
+  "version": "0.0.1",
+  "description": "Ethicall Frontend Test Framework",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "keywords": [
+    "Ethicall",
+    "Frontend",
+    "Test"
+  ],
+  "author": "Hsuching",
+  "license": "MIT",
+  "dependencies": {
+    "gulp": "^3.9.1",
+    "mocha": "^3.2.0",
+    "should": "^11.2.0"
+  },
+  "engines": {
+    "node": ">= 4.0.0",
+    "npm": ">= 3.0.0"
+  }
+}
